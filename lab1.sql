@@ -52,7 +52,7 @@ CREATE TABLE Working_hours (
   date DATE NOT NULL
 );
 
-USE [Оплата праці]
+USE [РћРїР»Р°С‚Р° РїСЂР°С†С–]
 
 GO
 
